@@ -186,7 +186,7 @@ namespace _02_Variables
             //Console.WriteLine("Seçtiğiniz cinsiyet :"+ gender);
             #endregion
 
-            Console.WriteLine("₺");
+           
             Console.Read();
            
         }
