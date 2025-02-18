@@ -14,13 +14,12 @@ namespace _09_DatabaseProject
         {
             //Ado. Net
 
-            Console.WriteLine("********* C# Veri Tabanlı Ürün- Kategori Bilgi Sistemi *****");
+            Console.WriteLine("********* C# Veri Tabanlı Ürün- Kategori Bilgi Sistemi *********");
             Console.WriteLine();
             Console.WriteLine();
-
+            
+    
             string tableNumber;
-
-
 
 
             Console.WriteLine("------------------------");
