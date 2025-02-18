@@ -41,4 +41,11 @@ Bu projede  veritabanı kavramını ,  tablo oluşturmayı , oluşturulan tablol
 Sql Command ile sorgu yazıldığını ,  SqlDataAdapter ile c# da oluşturduğumuz sorguyla sql ile köprü görevi kurmaya yardımcı olucağını ve daha sonrasında foreach döngüsü kullanarak veritabanında ki
 verileri c# da kullanabileceğim gibi bilgileri öğrendim.
 
+🪄Proje 10: CRUD İşlemleri
+
+C# ile veri bağlantısı kurdum. Daha sonrasında Crud (Create, Read, Update, Delete) işlemlerini gerçekleştirdim.
+Yeni kayıtları oluşturup bu kayıtları güncelleme yaparak bazı verileri silerek veriler üzerinde işlemler gerçekleştirdim.
+
+
+
 
